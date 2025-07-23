@@ -1,7 +1,7 @@
-# -KathiravanBCS
+# -Kathiravan Vittobha 
 #👋 Hi, I'm Kathiravan Vittobha! 
 
-🚀 **Dedicated web developer** with a passion for crafting seamless user experiences. Proficient in **HTML**, **CSS**, **JavaScript**, and **React.js**, eager to leverage skills in building responsive and dynamic websites. A quick learner with a keen eye for design, committed to staying updated with the latest technologies in the field.
+🚀Innovative **Full-Stack Engineer** specializing in AI-integrated web applications and cloud-native development. I architect complete solutions from **responsive UIs (React/Next.js) to scalable backends (Node.js/Python), with expertise in Azure cloud services and AI implementation**. Passionate about merging cutting-edge technologies to solve complex problems.
 
 ---
 
