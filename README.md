@@ -6,7 +6,6 @@
 ---
 
 ## 🖼️ About Me  
-![about-img](https://kathiravan-v.imgbb.com/)  
 
 - 🎓 **Education**:  
   - **2019 - 2021**: Bachelor of Science in Computer Science  
