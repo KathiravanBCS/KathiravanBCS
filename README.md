@@ -6,7 +6,7 @@
 ---
 
 ## 🖼️ About Me  
-![about-img](https://kathiravanv-60035411614.development.catalystserverless.in/app/img/about-img.jpeg)  
+![about-img](https://kathiravan-v.imgbb.com/)  
 
 - 🎓 **Education**:  
   - **2019 - 2021**: Bachelor of Science in Computer Science  
