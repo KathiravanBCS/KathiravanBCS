@@ -1,8 +1,6 @@
 <!--
 # Kathiravan Vittobha - Full Stack Developer
 # Skills: TypeScript, React, Next.js, NestJS, Node.js, PostgreSQL, Prisma, AI Integration
-# Kathiravan Vittobha - Full Stack Developer & AI Systems Engineer
-# Building: Email Inbox Apps, AI-Integrated Systems, Cloud Infrastructure
 # Portfolio: https://kathiravanvittobha.com
 # GitHub: https://github.com/KathiravanBCS
 -->
@@ -50,10 +48,8 @@ const developer = {
   name: "Kathiravan Vittobha",
   role: "Full Stack Developer & AI Systems Engineer",
   location: "Chennai, Tamil Nadu, India",
-  education: "BSc Computer Science | Vellore Institute of Technology (2021-2024)",
   focus: ["TypeScript", "React", "Next.js", "NestJS", "AI Integration", "Cloud Architecture"],
-  building: "Email Inbox Apps, Scalable Systems, AI-Integrated Applications",
-  currentRole: "Full-Stack Developer at VSTN Technologies",
+  building: "Scalable systems, Email Inbox Apps, AI-Integrated Applications",
   portfolio: "kathiravanvittobha.com"
 };
 ```
@@ -61,24 +57,20 @@ const developer = {
 # 💫 About Me:
 👋 **Hey, I'm Kathiravan Vittobha** - Full Stack Developer building production systems with TypeScript, React, and NestJS.
 
-🚀 **Currently:** Building Email Inbox applications with NextAuth, Gmail/Outlook sync, and scalable backend architecture at VSTN Technologies.
+🚀 **Currently:** Full-Stack Developer at VSTN Technologies, building scalable web applications and enterprise solutions.
 
-💼 **What I Do:** Full-stack development spanning React frontends, NestJS backends, PostgreSQL databases, and AI-integrated systems.
+💼 **What I Do:** Full-stack development spanning modern frontends, robust backends, and AI-integrated systems that solve real business problems.
 
-🧠 **What I'm Known For:** Complex state management, nested data operations, HTML/PDF generation backends, Microsoft Graph API integration, and designing zero-to-minimal-cost cloud infrastructure stacks.
-
-🎯 **My Stack:** 
-- **Frontend:** React, Next.js, TypeScript, Mantine UI, TailwindCSS
-- **Backend:** NestJS, Node.js, Prisma ORM, PostgreSQL
-- **AI & Integration:** Groq API, Microsoft Graph API, Gmail API, Outlook API, NextAuth
-- **Cloud & DevOps:** Supabase, Railway, Vercel, GitHub, SharePoint Development
-- **Tools & Libraries:** React Leaflet, MapLibre GL JS, pptxgenjs, ExcelJS, pdfjs-dist
-
-🔥 **Featured Work:** Email Inbox App (NextAuth + Gmail/Outlook sync), VazhiIQ (AI Career Guidance with Groq), Travel Buddy (React Leaflet Map Integration), GAN-NIDS Web App
-
-💬 **Ask Me About:** TypeScript, React Hooks patterns, NestJS architecture, functional programming, API integration, or state management at scale.
+💬 **Ask Me About:** TypeScript, React Hooks patterns, NestJS architecture, or building scalable applications.
 
 📫 **Reach Me:** [GitHub](https://github.com/KathiravanBCS) | [LinkedIn](https://www.linkedin.com/in/kathiravan-vittobha-182569317/) | [X/Twitter](https://x.com/Kathiravan27117) | [Email](mailto:kathiravanvittopa717@gmail.com) | [Peerlist](https://peerlist.io/kathiravan)
+
+---
+
+## 📚 Education:
+
+### Vellore Institute of Technology (VIT)
+**BSc Computer Science | 2021 - 2024 | Vellore, Tamil Nadu**
 
 ---
 
@@ -87,27 +79,15 @@ const developer = {
 ### VSTN Technologies - Full Stack Developer
 **2024 - Present | Chennai, Tamil Nadu**
 
-Building scalable web applications and AI-integrated systems:
-- Developing full-stack email management system with NextAuth authentication (Google OAuth, Azure AD, Credentials)
-- Implementing Gmail & Outlook message sync with intelligent inbox management
-- Designing NestJS backend for HTML/PDF report generation with complex Prisma queries
-- Building React components with Mantine UI for CRM systems (crm.vstntech.com)
-- Creating real-time data visualization with React Leaflet and MapLibre GL JS
-- Debugging and optimizing React hooks patterns (useMemo, useCallback, useContext)
-- Developed PDF data extraction tool with dynamic column detection and multi-value field capture
+Building scalable web applications with modern tech stack:
+- Full-stack development with React, Next.js, Node.js, and NestJS
+- Database design and optimization using PostgreSQL and Prisma
+- Building responsive, accessible UI/UX components
+- Enterprise application development and CRM systems
+- API integration and backend architecture
+- Cloud deployment and infrastructure management
 
-**Technologies:** React • Next.js • NestJS • TypeScript • PostgreSQL • Prisma • Mantine UI • NextAuth • Gmail API • Outlook API • Microsoft Graph API
-
-### Vellore Institute of Technology - Computer Science Graduate
-**2021 - 2024 | Vellore, Tamil Nadu**
-
-**Relevant Work & Projects:**
-- VazhiIQ: AI career guidance platform utilizing Groq API for algorithm documentation
-- Travel Buddy: Mobile-first travel app with map-first route planning and POI radius search
-- GAN-NIDS: Network intrusion detection web app with Flask backend and Firebase authentication
-- PDF Data Extraction Tool: React + Vite application with pdfjs-dist and dynamic table generation
-
-**Technologies:** React • Next.js • Flask • Groq • Firebase • Three.js • Recharts
+**Technologies:** React • Next.js • NestJS • TypeScript • PostgreSQL • Prisma • Mantine UI • Node.js
 
 ---
 
@@ -147,9 +127,11 @@ Building scalable web applications and AI-integrated systems:
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### **☁️ Cloud & Deployment**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge&logo=firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -159,7 +141,52 @@ Building scalable web applications and AI-integrated systems:
 ![Microsoft Graph](https://img.shields.io/badge/MICROSOFT_GRAPH-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Gmail API](https://img.shields.io/badge/GMAIL_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SHAREPOINT-0A78D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Mantine](https://img.shields.io/badge/MANTINE-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+
+---
+
+# 🎯 My Expertise:
+
+### Full-Stack Web Development
+Build modern, scalable web applications from frontend to backend using React, Next.js, Node.js, and NestJS.
+- React & Next.js frontend development
+- Node.js & NestJS backend APIs
+- Database design & optimization
+- Responsive & accessible UI/UX
+
+### AI Integration & Automation
+Integrate cutting-edge AI capabilities into your applications using Groq API and other AI services.
+- LLM API integration
+- AI-powered features
+- Automation workflows
+- Smart content generation
+
+### CRM & Enterprise Solutions
+Custom CRM systems and enterprise applications designed for complex business workflows.
+- CRM system development
+- Business process automation
+- Data management solutions
+- SharePoint integration
+
+### Invoicing & Financial Systems
+Comprehensive invoicing platforms and financial dashboards with PDF generation and payment integration.
+- Invoicing system development
+- PDF generation
+- Payment gateway integration
+- Financial reporting dashboards
+
+### Data Visualization & Dashboards
+Interactive dashboards for analytics, reporting, and business intelligence with real-time data updates.
+- Interactive visualizations
+- Real-time data dashboards
+- Business analytics
+- Reporting solutions
+
+### Cloud Deployment & DevOps
+Deployment, scaling, and infrastructure management on AWS, Azure, and Firebase platforms.
+- AWS cloud solutions
+- Azure deployment
+- Firebase setup
+- CI/CD pipelines
 
 ---
 
@@ -173,39 +200,6 @@ Building scalable web applications and AI-integrated systems:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathiravanbcs&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
----
-
-# 🎯 Core Competencies:
-
-- **Frontend Architecture:** React hooks optimization, state management with useMemo/useCallback, component composition patterns
-- **Backend Systems:** Complex Prisma queries with nested relations, NestJS architectural patterns, API design
-- **Data Operations:** HTML/PDF generation, Excel template manipulation, dynamic table generation
-- **Cloud Infrastructure:** Zero-to-minimal-cost stack design (Supabase, Railway, Vercel, Groq)
-- **API Integration:** Gmail, Outlook, Microsoft Graph, Groq, NextAuth multi-provider setup
-- **UI/UX:** Mantine UI component system, real-time data visualization, responsive design
-
----
-
-## 🏆 Highlighted Projects
-
-### 📧 Email Inbox Application
-NextAuth-powered email management system with intelligent sync and inbox organization
-- Multi-provider auth (Google OAuth, Azure AD, Credentials)
-- Gmail & Outlook API integration for message sync
-- Account management and inbox organization features
-
-### 🚀 VazhiIQ - AI Career Guidance Platform
-Groq API-powered career guidance with algorithm documentation
-- 18+ algorithm documentation (FSM, Strategy Pattern, Observer Pattern)
-- PowerPoint generation with pptxgenjs
-- Leaderboard ranking and gamification
-
-### 🗺️ Travel Buddy
-Mobile-first travel planning with map integration
-- React Leaflet and MapLibre GL JS integration
-- Multi-stop trip builder with drag-and-drop
-- POI radius search and destination exploration
 
 ---
 
