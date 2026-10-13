@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="82" viewBox="0 0 250 82" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio — Explore my work</title>
+  <desc id="desc">Contact card with a Portfolio icon and a gently moving arrow.</desc>
+  <style>
+    text { font-family: 'Poppins', sans-serif; }
+    .arrow { animation: invite 4s ease-in-out infinite; animation-delay: -0.0s; }
+    @keyframes invite { 0%, 65%, 100% { transform: translate(0,0); } 35% { transform: translate(3px,-3px); } }
+    @media (prefers-reduced-motion: reduce) { .arrow { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="248" height="80" rx="12" fill="#20201e" stroke="#39352e"/>
+  <rect x="14" y="21" width="40" height="40" rx="11" fill="#39352e"/>
+  <g transform="translate(22 29)" fill="none" stroke="#f5f2e9" color="#f5f2e9" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c5 5 5 13 0 18M12 3c-5 5-5 13 0 18"/></g>
+  <text x="67" y="36" fill="#f5f2e9" font-size="16" font-weight="700">Portfolio</text>
+  <text x="67" y="55" fill="#c8c3b8" font-size="11">Explore my work</text>
+  <g class="arrow" fill="none" stroke="#f47750" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M221 47l10-10m-10 0h10v10"/></g>
+</svg>
