@@ -8,9 +8,19 @@ Portfolio: https://kathiravanvittobha.com
 
 ![Animated development flow: Frontend to Backend to AI systems](assets/development-flow.svg)
 
-**[Portfolio ↗](https://kathiravanvittobha.com/)** &nbsp; / &nbsp; **[Email ↗](mailto:kathiravanvittopa717@gmail.com)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/kathiravan-vittobha-182569317/)**
+<p>
+  <a href="https://kathiravanvittobha.com/"><img src="assets/connect/portfolio.svg" width="240" height="79" alt="Portfolio — Explore my work" /></a>
+  <a href="mailto:kathiravanvittopa717@gmail.com"><img src="assets/connect/email.svg" width="240" height="79" alt="Email — Start a conversation" /></a>
+  <a href="https://www.linkedin.com/in/kathiravan-vittobha-182569317/"><img src="assets/connect/linkedin.svg" width="240" height="79" alt="LinkedIn — Connect professionally" /></a>
+</p>
 
-[01 — Profile](#01--profile) &nbsp; [02 — Toolkit](#02--toolkit) &nbsp; [03 — Expertise](#03--expertise) &nbsp; [04 — Journey](#04--journey) &nbsp; [05 — Connect](#05--connect)
+<p>
+  <a href="#01--profile"><img src="assets/connect/nav-profile.svg" width="130" height="37" alt="Profile" /></a>
+  <a href="#02--toolkit"><img src="assets/connect/nav-toolkit.svg" width="130" height="37" alt="Toolkit" /></a>
+  <a href="#03--expertise"><img src="assets/connect/nav-expertise.svg" width="130" height="37" alt="Expertise" /></a>
+  <a href="#04--journey"><img src="assets/connect/nav-journey.svg" width="130" height="37" alt="Journey" /></a>
+  <a href="#05--connect"><img src="assets/connect/nav-connect.svg" width="130" height="37" alt="Connect" /></a>
+</p>
 
 ## 01 / Profile
 
@@ -155,7 +165,17 @@ const developer = {
 
 ### Have something in mind? Let's talk.
 
-[Portfolio ↗](https://kathiravanvittobha.com) &nbsp; / &nbsp; [GitHub ↗](https://github.com/KathiravanBCS) &nbsp; / &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/kathiravan-vittobha-182569317/) &nbsp; / &nbsp; [X / Twitter ↗](https://x.com/Kathiravan27117) &nbsp; / &nbsp; [Email ↗](mailto:kathiravanvittopa717@gmail.com) &nbsp; / &nbsp; [Peerlist ↗](https://peerlist.io/kathiravan)
+<p>
+  <a href="https://kathiravanvittobha.com/"><img src="assets/connect/portfolio.svg" width="240" height="79" alt="Portfolio — Explore my work" /></a>
+  <a href="mailto:kathiravanvittopa717@gmail.com"><img src="assets/connect/email.svg" width="240" height="79" alt="Email — Start a conversation" /></a>
+  <a href="https://www.linkedin.com/in/kathiravan-vittobha-182569317/"><img src="assets/connect/linkedin.svg" width="240" height="79" alt="LinkedIn — Connect professionally" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/KathiravanBCS"><img src="assets/connect/github.svg" width="240" height="79" alt="GitHub — Explore my repositories" /></a>
+  <a href="https://x.com/Kathiravan27117"><img src="assets/connect/x.svg" width="240" height="79" alt="X / Twitter — Follow along" /></a>
+  <a href="https://peerlist.io/kathiravan"><img src="assets/connect/peerlist.svg" width="240" height="79" alt="Peerlist — Find me on Peerlist" /></a>
+</p>
 
 ---
 

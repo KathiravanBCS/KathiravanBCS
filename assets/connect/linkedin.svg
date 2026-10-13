@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="82" viewBox="0 0 250 82" role="img" aria-labelledby="title desc">
+  <title id="title">LinkedIn — Connect professionally</title>
+  <desc id="desc">Contact card with a LinkedIn icon and a gently moving arrow.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; }
+    .arrow { animation: invite 4s ease-in-out infinite; animation-delay: -0.8s; }
+    @keyframes invite { 0%, 65%, 100% { transform: translate(0,0); } 35% { transform: translate(3px,-3px); } }
+    @media (prefers-reduced-motion: reduce) { .arrow { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="248" height="80" rx="12" fill="#f5f2e9" stroke="#d8d3c8"/>
+  <rect x="14" y="21" width="40" height="40" rx="11" fill="#e8e2d6"/>
+  <g transform="translate(22 29)" fill="none" stroke="#20201e" color="#20201e" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="3"/><path d="M7 10v7M7 7v.1M11 17v-7M11 13c0-4 6-4 6 0v4"/></g>
+  <text x="67" y="36" fill="#20201e" font-size="16" font-weight="700">LinkedIn</text>
+  <text x="67" y="55" fill="#57534e" font-size="11">Connect professionally</text>
+  <g class="arrow" fill="none" stroke="#c25429" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M221 47l10-10m-10 0h10v10"/></g>
+</svg>

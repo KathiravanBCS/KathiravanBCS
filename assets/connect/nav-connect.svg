@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40" role="img" aria-labelledby="title">
+<title id="title">Go to Connect</title>
+<rect x="1" y="1" width="138" height="38" rx="19" fill="#f5f2e9" stroke="#d8d3c8"/>
+<g transform="translate(14 10)" fill="none" stroke="#c25429" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 9a7 7 0 0 1-7 7H6l-4 3V9a7 7 0 0 1 7-7h2a7 7 0 0 1 7 7Z"/><path d="M6 9h.1M10 9h.1M14 9h.1"/></g>
+<text x="44" y="25" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" fill="#20201e">Connect</text>
+</svg>
