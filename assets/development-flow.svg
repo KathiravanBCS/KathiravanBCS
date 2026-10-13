@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="124" viewBox="0 0 1000 124" role="img" aria-labelledby="title desc">
+  <title id="title">Frontend to Backend to AI systems</title>
+  <desc id="desc">Three outlined development icons connected by gently moving orange lines. React and Next.js, Node.js and NestJS, and AI integration.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; }
+    .flow { stroke-dasharray: 10 22; animation: flow 3s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -96; } }
+    @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="998" height="122" rx="8" fill="#f5f2e9" stroke="#d8d3c8"/>
+  <g fill="none" stroke="#d8d3c8" stroke-width="2">
+    <path d="M252 62H365M582 62H695"/>
+  </g>
+  <g class="flow" fill="none" stroke="#c25429" stroke-width="2" stroke-linecap="round">
+    <path d="M252 62H365M582 62H695"/>
+  </g>
+  <g fill="#20201e">
+    <rect x="34" y="36" width="52" height="52" rx="12"/>
+    <rect x="368" y="36" width="52" height="52" rx="12"/>
+    <rect x="698" y="36" width="52" height="52" rx="12"/>
+  </g>
+  <g fill="none" stroke="#f5f2e9" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="46" y="49" width="28" height="24" rx="3"/>
+    <path d="M46 56H74M55 61L51 65L55 69M65 61L69 65L65 69"/>
+    <rect x="380" y="47" width="28" height="12" rx="3"/>
+    <rect x="380" y="65" width="28" height="12" rx="3"/>
+    <path d="M386 53H386.1M386 71H386.1M394 53H402M394 71H402"/>
+    <path d="M724 46L738 54V70L724 78L710 70V54ZM724 46V62L710 70M724 62L738 70M710 54L724 62L738 54"/>
+  </g>
+  <g fill="#20201e" font-size="18" font-weight="700">
+    <text x="102" y="58">Frontend</text>
+    <text x="436" y="58">Backend</text>
+    <text x="766" y="58">AI systems</text>
+  </g>
+  <g fill="#57534e" font-size="13">
+    <text x="102" y="79">React · Next.js</text>
+    <text x="436" y="79">Node.js · NestJS</text>
+    <text x="766" y="79">AI integration</text>
+  </g>
+</svg>
