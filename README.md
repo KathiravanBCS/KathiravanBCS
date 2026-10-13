@@ -4,7 +4,7 @@ TypeScript, React, Next.js, NestJS, Node.js, PostgreSQL, Prisma, AI Integration
 Portfolio: https://kathiravanvittobha.com
 -->
 
-![Kathiravan Vittobha — Full Stack Developer & AI Systems Engineer. Building scalable systems with TypeScript.](assets/profile-header.svg)
+[![Kathiravan Vittobha — Full Stack Developer & AI Systems Engineer. Building scalable systems with TypeScript.](assets/profile-header.svg)](https://kathiravanvittobha.com/)
 
 ![Animated development flow: Frontend to Backend to AI systems](assets/development-flow.svg)
 
